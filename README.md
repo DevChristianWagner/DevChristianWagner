@@ -1,8 +1,4 @@
- ### <p align="center">Olá! Me chamo Christian 👋👋</p>
-
-</br>
-
-##
+ # Olá! Me chamo Christian 👋👋
 
 </br>
 
@@ -32,9 +28,10 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
           
-<div>
-   <a href="https://t.me/+ssGHI0kEnJIxMDQx" target="_blank"
-</div>
-
+<div align="center"> 
+  <a href="https://www.youtube.com/cafedoveloper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/CafeDoDeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/CafeDoDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:christian.coffe@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
 
