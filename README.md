@@ -1,6 +1,10 @@
- <h1 align="center">Olá! Me chamo Christian 👋👋</h1>
+ ### <p align="center">Olá! Me chamo Christian 👋👋</p>
 
-</br></br></br>
+</br>
+
+##
+
+</br>
 
 ### <p align="center">💻 Trabalhando com Front-End</p>
 
@@ -28,10 +32,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
           
-##
-          
 <div>
-
+   <a href="https://t.me/+ssGHI0kEnJIxMDQx" target="_blank"
 </div>
 
 
