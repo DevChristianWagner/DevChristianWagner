@@ -1,11 +1,10 @@
-# Olá! Me chamo Christian 👋👋
+ <h1 align="center">Olá! Me chamo Christian 👋👋</h1>
 
+</br></br></br>
 
-### 💼 Trabalhando com Front-End
+### <p align="center">💻 Trabalhando com Front-End</p>
 
 </br>
-
-### 📖 Estudando
           
   <div align="center">
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
@@ -18,7 +17,6 @@
     <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </div>
 
-##
   
   </br>
 
@@ -26,8 +24,14 @@
 
   <div align="center">
   <a href="https://github.com/DevChristianWagner">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevChristianWagner&show_icons=true&theme=slateorange&include_all_commits=true&                   count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DevChristianWagner&show_icons=true&theme=slateorange&include_all_commits=true&                   count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
+          
+##
+          
+<div>
+
 </div>
 
 
