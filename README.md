@@ -1,4 +1,4 @@
- ## 🌟 Privacidade é ter o poder de dizer quem é você nos seus próprios termos 🌟 
+ ## <p align="center">🌟 Privacidade é ter o poder de dizer quem é você nos seus próprios termos 🌟</p> 
 
 </br>
 
