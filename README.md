@@ -1,4 +1,4 @@
- # Olá! Sejá bem vindo 👋👋
+ # 🌟 "Privacidade é ter o poder de dizer quem é você nos seus próprios termos" 🌟 
 
 </br>
 
