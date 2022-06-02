@@ -22,7 +22,6 @@
 
   <div align="center">
   <a href="https://github.com/DevChristianWagner">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DevChristianWagner&show_icons=true&theme=slateorange&include_all_commits=true&                   count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
           
