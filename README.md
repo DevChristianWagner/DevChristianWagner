@@ -1,32 +1,81 @@
- ## <p align="center">🌟 Privacidade é ter o poder de dizer quem é você nos seus próprios termos 🌟</p> 
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-</br>
+###
 
-### <p align="center">💻 Trabalhando com Front-End</p>
+<br clear="both">
 
-</br>
-          
-  <div align="center"> 
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  </div>
+<img align="right" height="200" src="https://acegif.com/wp-content/gifs/coffee-38.gif"  />
 
-  
-  </br>
+###
 
-</br>
+<p align="left">💡 Me chamo Christian Wagner<br><br>🇧🇷 Moro em São Paulo - Brasil<br><br>🚀 Trabalhando com Front-End</p>
 
-  <div align="center">
-  <a href="https://github.com/DevChristianWagner">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristianWagner&layout=compact&langs_count=7&theme=slateorange"/>
+###
+
+<h2 align="left">Sobre</h2>
+
+###
+
+<p align="left">👋 Apaixonado por xadrez, karatê, musica e principalmente programação, sou Christian Wagner e através do evento NLW#2 feito pela Rocketseat 🚀, comecei no mundo da programação no dia 03 de agosto de 2020. Desde então, continuei me aprofundando neste vasto universo.<br><br><br>🖥️ - Estudando programação<br>🎹 - Pianista desde os 7 anos de idade<br>🎻 - Me tornando um violinista<br>🥋 - Faixa cinza em karatê (por enquanto)<br>♟ - Enxadrista semi profissional<br><br><br><br>💡- Criativo, adoro a parte do Front-End. Boa experiência ao usuário e responsividade é meu principal foco na hora do desenvolvimento. <br>🗣 - Comunicativo. Uma xícara de café e um bom assunto, podemos conversar durante horas.<br>🎯 Focado. Quando tenho um objetivo vou até concluí-lo.</p>
+
+###
+
+<h2 align="center">Trabalho com</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
-          
-<div align="center"> 
-  <a href="https://www.youtube.com/cafedoveloper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/CafeDoDeveloper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/CafeDoDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:christian.coffe@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevChristianWagner/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Atividade&username=DevChristianWagner" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Linguagens mais usadas&username=DevChristianWagner" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/DevChristianWagner/DevChristianWagner/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Entre em contato</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-wagner-72b50b219/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://youtube.com/cafedodeveloper" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/codescraft" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitch.tv/cafedodeveloper" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="0" src="https://avatars.githubusercontent.com/u/65682195?s=400&u=91f0afc9ae76a182e13be9f4064c1f2c59aaf852&v=4"  />
+
+###
