@@ -49,10 +49,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/DevChristianWagner/DevChristianWagner/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Entre em contato</h2>
 
 ###
