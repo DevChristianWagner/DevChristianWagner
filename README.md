@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💡 Me chamo Christian Wagner<br><br>🇧🇷 Moro em São Paulo - Brasil<br><br>🚀 Trabalhando com Front-End</p>
+<p align="left">💡 Me chamo <strong>Christian Wagner</strong><br><br>🇧🇷 Moro em <strong>São Paulo - Brasil</strong><br><br>🚀 Trabalhando com <strong>Front-End</strong></p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Apaixonado por xadrez, karatê, musica e principalmente programação, sou Christian Wagner e através do evento NLW#2 feito pela Rocketseat 🚀, comecei no mundo da programação no dia 03 de agosto de 2020. Desde então, continuei me aprofundando neste vasto universo.<br><br><br>🖥️ - Estudando programação<br>🎹 - Pianista desde os 7 anos de idade<br>🎻 - Me tornando um violinista<br>🥋 - Faixa cinza em karatê (por enquanto)<br>♟ - Enxadrista semi profissional<br>🐧 Usuário linux desde os 6 anos de idade</p><br><br><br><br>💡- Criativo, adoro a parte do Front-End. Boa experiência ao usuário e responsividade é meu principal foco na hora do desenvolvimento. <br>🗣 - Comunicativo. Uma xícara de café e um bom assunto, podemos conversar durante horas.<br>🎯 Focado. Quando tenho um objetivo vou até concluí-lo.</p>
+<p align="left">👋 Apaixonado por xadrez, karatê, musica e principalmente programação, sou Christian Wagner e através do evento NLW#2 feito pela Rocketseat 🚀, comecei no mundo da programação no dia 03 de agosto de 2020. Desde então, continuei me aprofundando neste vasto universo.<br><br><br>🖥️ - Estudando programação<br>🎹 - Pianista desde os 7 anos de idade<br>🎻 - Me tornando um violinista<br>🥋 - Atleta Karatê<br>♟ - Enxadrista semi profissional<br>🐧 Usuário linux desde os 6 anos de idade</p><br><br>💡- Criativo, adoro a parte do Front-End. Boa experiência ao usuário e responsividade é meu principal foco na hora do desenvolvimento. <br>🗣 - Comunicativo. Uma xícara de café e um bom assunto, podemos conversar durante horas.<br>🎯 Focado. Quando tenho um objetivo vou até concluí-lo.</p>
 
 ###
 
