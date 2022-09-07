@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">💡 Me chamo <strong>Christian Wagner</strong><br><br>🇧🇷 Moro em <strong>São Paulo - Brasil</strong><br><br>🚀 Trabalhando com <strong>Front-End</strong></h2>
+<h4 align="left">💡 Me chamo <strong>Christian Wagner</strong><br><br>🇧🇷 Moro em <strong>São Paulo - Brasil</strong><br><br>🚀 Trabalhando com <strong>Front-End</strong></h4>
 
 ###
 
