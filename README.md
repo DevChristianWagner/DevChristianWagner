@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Apaixonado por xadrez, karatê, música e principalmente programação, sou Christian Wagner e através do evento NLW#2 feito pela Rocketseat 🚀, comecei no mundo da programação no dia 03 de agosto de 2020. Desde então, continuei me aprofundando neste vasto universo.<br><br><br>🖥️ - Estudando programação<br>🎹 - Pianista<br>🥋 - Karateca<br>🥋 - Judoca<br>♟ - Enxadrista semi profissional<br>🐧 -  Usuário linux desde os 5 anos de idade</p><br><br>💡- Criativo, adoro a parte do Front-End. Boa experiência ao usuário e responsividade é meu principal foco na hora do desenvolvimento. <br>🗣 - Comunicativo. Uma xícara de café e um bom assunto, podemos conversar durante horas.<br>🎯 Focado. Quando tenho um objetivo vou até concluí-lo.</p>
+<p align="left">👋 Apaixonado por xadrez, karatê, música e principalmente programação, sou Christian Wagner e através do evento NLW#2 feito pela Rocketseat 🚀, comecei no mundo da programação no dia 03 de agosto de 2020. Desde então, continuei me aprofundando neste vasto universo.<br><br><br>🖥️ - Estudando programação<br>🎹 - Pianista<br>🥋<br><br>💡- Criativo, adoro a parte do Front-End. Boa experiência ao usuário e responsividade é meu principal foco na hora do desenvolvimento. <br>🗣 - Comunicativo. Uma xícara de café e um bom assunto, podemos conversar durante horas.<br>🎯 Focado. Quando tenho um objetivo vou até concluí-lo.</p>
 
 ###
 
